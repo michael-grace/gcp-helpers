@@ -1,0 +1,6 @@
+dispatch:
+  - url: "merry1350.michael-grace.uk/"
+    service: default
+  - url: "dizzy-sam.merry1350.michael-grace.uk/*"
+    service: dizzy-sam-merry1350
+
